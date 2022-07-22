@@ -1,5 +1,5 @@
 # I2P-I-Final-Project
-game made with Allegro 5
+A action bullet hell game made with Allegro 5
 
 
 # Game Play (youtube Url)
